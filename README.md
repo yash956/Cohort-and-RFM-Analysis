@@ -7,5 +7,3 @@
 Perspectives:
 
 - Classification of new customers into discovered segments.
-- Clustering of transaction dataset based on its initial features (CustomersID, InvoiceDate,etc), apply PCA, feature selection.
-- Create new features (Time, Day of week, Month) to explore customers behavior per time/day.
